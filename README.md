@@ -1,7 +1,7 @@
 # AirQualityMonitor
 A Python script and Arduino sketch reading an logging indoor air quality. For the full write up of this project, see https://andybradford.dev/2019/11/29/monitoring-my-indoor-air-quality.
 
-This repo is intended as a reference for what I built. If you want to build something similar, feel free to use this as is or add / change your own stuff. If you do something cool, I'd love to hear about it, you can tweet me at [@devandyb](https://twitter.com/devandyb) or leave a comment on the above blog post
+This repo is intended as a reference for what I built. If you want to build something similar, feel free to use this as is or add / change your own stuff. If you do something cool, I'd love to hear about it, you can tweet me at [@andycb](https://twitter.com/andycb) or leave a comment on the above blog post
 
 ## Setup
 1) Make sure you have Python 2 instaled
